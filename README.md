@@ -1,3 +1,3 @@
 Hello!
 ***
-I am awesome
+awesome
